@@ -1,6 +1,6 @@
 /**
    * Create By Dika Ardnt.
-   * Recode Ny Romli Suhanda
+   * Recode By Romli Suhanda
    * Contact Me on wa.me/628132267077 (romli)
    * Follow https://github.com/DikaArdnt
 */
